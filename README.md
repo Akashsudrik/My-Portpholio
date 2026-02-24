@@ -1,2 +1,2 @@
-# My-Portpholio
-somrthing about me
+# Portfolio
+A little info abt me 
